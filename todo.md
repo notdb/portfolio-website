@@ -12,3 +12,5 @@ todo
 ## notes
 
 I don't know if the javascript icon is the correct one to use with the font awesome version I'm using.
+
+The version of Font-Awesome (where the icons are coming from) does not have the latest up-to-date version, I'll have to use the free version from the CDN.
